@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Transformação digital",
+      descricao: "Investimento em tecnologia e inovação para otimizar processos, aumentar a produtividade e impulsionar o crescimento da empresa."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Leonard Hofstadter",
+      cargo: "Desenvolvedor Back-end",
+      foto: "/images/leonard.jpg",
+      alt: "Foto de Leonard Hofstadter",
+      descricao: "Especialista em desenvolvimento back-end, responsável por criar soluções robustas, integrar sistemas e garantir o desempenho das aplicações."
     }
   ]
 };
